@@ -1,0 +1,9 @@
+__pycache__
+build
+dist
+*.db
+*.spec
+virtual
+.ipynb_checkpoints
+scraping_example.ipynb
+.DS_Store
